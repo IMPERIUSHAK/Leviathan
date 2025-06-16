@@ -20,4 +20,4 @@ fopen("/etc/leviathan_pass/leviathan5", "r")                                    
 leviathan4@gibson:~/.trash$ ./bin
 00110000 01100100 01111001 01111000 01010100 00110111 01000110 00110100 01010001 01000100 00001010 
 ```
-As you can see the password to the next level is binnary you need to translate it to ascii by writing your own script or serch in the internet for converter
+As you can see the password to the next level is binnary you need to translate it to ascii by writing your own script or search in the internet for converter

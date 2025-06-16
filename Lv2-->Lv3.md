@@ -1,3 +1,5 @@
+Solution of this problem is to understand how to use ls(for creating links) and ltrace
+
 ```
 leviathan2@gibson:~$ mktemp -d
 /tmp/tmp.KKZX22AOau
